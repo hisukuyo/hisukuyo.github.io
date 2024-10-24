@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://hisukuyo.github.io/sitemap/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/kSc/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/xPY/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/NLR/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/sZe/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/EYf/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/OuL/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/dFI/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/wHy/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/RBA/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/YZq/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/cJt/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/rIH/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/Tfw/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/Png/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/wXn/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/AQB/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/LBv/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/svV/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/EKZ/sitemap_index.hisukuyo
+Sitemap: https://hisukuyo.github.io/JZO/sitemap_index.hisukuyo
